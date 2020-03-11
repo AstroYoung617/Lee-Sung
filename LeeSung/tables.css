@@ -1,0 +1,84 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+a{ text-decoration:none;}
+imag{ border:0;}
+.login_box{ border:1px solid #CCC; border-top:none; background:#FFF; width:1000px; padding:45px 0 100px 0;}
+.fb{font-weight:bold;}
+.lrp10{ padding:0 10px;}
+.lp100{ padding-left:100px;}
+.p20{ padding:20px;}
+.bg_h{ background:url(y.gif) no-repeat right bottom #f6f6f6;}
+.bg_l{ background-color:#00adef;}
+.bg_huang{ background-color:#ca9900;}
+.p5 td{ padding:5px;}
+.fh{ color:#898989;}
+.f12{ font-size:12px;}
+.f14{ font-size:14px;}
+.f16{ font-size:16px;}
+.ff{ color:#FFF;}
+.red{ color:#F00;}
+.m20{ margin:20px;}
+
+#top{ background:url(../images/top_1.jpg) no-repeat; width:1000px; height:181px;}
+#top, .login_box, .login_form{margin:0 auto;}
+.login_form{border:1px solid #b10808; width:504px;}
+
+.forgetPwd{ color:#4a4a4a}
+.forgetPwd:hover{color:#F00;}
+.login_form_box{ margin:20px 0 0 100px;}
+
+.loginForm_01, .loginForm_02, .loginForm_03{ margin:10px 0;}
+
+.input_box{ height:22px; background:#FFF; border:1px solid #CCC; width:180px;}
+#ma{ background:url(../images/5.jpg) no-repeat right;}
+
+#button{padding:10px; margin:10px 0 20px 51px;}
+.login_button{ width:86px; height:26px; background: url(../images/button_01.jpg) no-repeat 0 0; border:0; color:#FFF; line-height:26px; font:14px "微软雅黑", "宋体";}
+
+#footer{ width:900px; margin:10px auto; height:24px; text-align:center;}
+#footer a{color:#999; font-size:12px;}
+#footer a:hover{color:red;}
+
+.main_box{background-color:#FFF; border:1px solid #CCC; border-top:none; width:1000px; margin:0 auto;}
+.img_top{background:url(../images/img_bg.png) no-repeat right #f6f6f6; height:200px; margin:0 20px; text-align:left;}
+#title_button{ margin:20px;}
+.title_button{ background:url(../images/button_move.jpg) no-repeat 0 0; color:#FFF; font:14px "微软雅黑", "宋体"; text-align:center; border:0; width:111px; height:24px; margin-right:20px;}
+.title_button_onmouseup{background:url(../images/button_up.jpg) no-repeat 0 0; color:#FFF; font:14px "微软雅黑", "宋体"; text-align:center; border:0; width:111px; height:24px; margin-right:20px;}
+
+.table_box_title, .sub_title, .sub_title02{ color:#FFF; font-size:16px;}
+.sub_title, .sub_title02{padding-left:25px;}
+.sub_title02{color:#00adef;}
+.table_box_td{ border-left:1px solid #dcdcdc; border-top:1px solid #eee; text-align:center;}
+.table_box_td td{ height:32px; border-bottom:1px solid #dcdcdc; border-right:1px solid #dcdcdc;}
+.td_left_f td{ border-left:1px solid #FFF;}
+.title{ font:1.5em "微软雅黑", "宋体"; color:#666;}
+
+.login_button, .button_onmouseout{ width:86px; height:26px; background: url(../images/button_01.jpg) no-repeat 0 0; border:0; color:#FFF; line-height:26px; font:14px "微软雅黑", "宋体";}
+.button_onmousemove{width:86px; height:26px; background: url(../images/button_02.jpg) no-repeat 0 0; border:0; color:#FFF; line-height:26px; font:14px "微软雅黑", "宋体";}
+
+.more_button_onmouseout{ padding:0 10px; height:20px; background-color:#91afff; border:0; margin-right:10px; text-align:center; color:#FFF;}
+
+.more_button, .more_button02{ padding:3px 10px 3px 10px; background:url(button_bg.jpg) repeat-x bottom; border:1px solid #CCC; color:#666;}
+.more_button:hover{ background:#91afff; border:1px solid #fff; color:#fff;}
+.more_button02:hover{ background:#d5aa3a; border:1px solid #fff; color:#fff;}
+
+
+.more_button_onmousemove{ padding:0 10px; height:20px; background-color:#00adef; border:0; margin-right:10px; text-align:center; color:#FFF;}
+.button_off{ padding:5px 20px 4px 20px; background-color:#999; color:#fff;}
+.button_off:hover{ color:#FFF; background-color:#c85327;}
+
+
+/*成绩详细页*/
+.table_td_snb{}
+.Gray_table{}
+.Gray_table td{ border-bottom:1px solid #CCC;  border-left:1px solid #CCC; height:45px; padding:0 20px;}
+#box_nei{ margin:0 20px 30px 20px;}
+
+#table_ufo tr:hover{ background-color:#cceffc;}
+#table_ufo02 tr:hover{ background-color:#ede3c5;}
+#table_ufo03 tr:hover{ background-color:#f5ded5;}
+
+
+
+.bg_huang03{ background-color:#C85327;}

@@ -1,0 +1,130 @@
+﻿body {   
+}
+        .TL {
+
+            float:left;
+            width:401px;
+            height:25px;
+            background-color:#69f4f8
+        }
+        .TR {
+            float:right;
+            width:201px;
+            height:25px;
+            background-color:#69f4f8
+        }
+        .T {
+            background-color:#69f4f8;
+            height:29px;
+            width: 1300px;
+            margin:0 auto;
+            opacity:0.82;
+        }
+        #img1 {
+            width:18px;
+            height:17px
+        }
+        #page1 {
+            background-color:#2cbeed;
+            height:900px;
+        }
+        .pf {
+            text-align:left;
+            font-family:黑体;
+
+}
+        .bf {font-family:'Microsoft YaHei UI';color:#f00;font-size:large
+        }
+        input[type="text"] {
+            width: 280px;
+height: 25px;
+border: outset;
+border-radius: 120px;
+        }
+        input[type="tel"] {
+            width: 280px;
+height: 25px;
+border: outset;
+border-radius: 120px;
+        }
+        input[type="password"] {
+            width: 280px;
+height: 25px;
+border: outset;
+border-radius: 120px;
+        }
+        #TextBox2 {
+            color:#aeabab;
+        }
+        .but{
+    font-weight: bold;
+    font-size: 90%;
+    background-color: #83b6f3;
+    border: 1px;
+    height: 35px;
+    padding: .2em 1em;
+    margin: 5px;
+    cursor: pointer;
+    align-items:center;
+            width: 122px;
+        }
+.aa {
+    background-color:#ebe6e6;
+    border-style:hidden; 
+    border-color: inherit;
+     width:300px; 
+     float:right;
+      height: 350px;
+       margin-right:35px;
+       right:5px;
+       padding:5px;
+       opacity:.68;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.but1 {
+    cursor:pointer;
+    border:hidden;
+    background-color:transparent;
+}
+form {
+    padding-left:20px;padding-right:20px
+}
+       select {
+    background:#fafdfe;  
+    height:28px;  
+    width:180px;  
+    line-height:28px;  
+    border:1px solid #9bc0dd;  
+    -moz-border-radius:2px;  
+    -webkit-border-radius:2px;  
+    border-radius:2px;  
+
+        }
+       .button {
+    outline: 0;
+    padding: 5px 12px;
+    display: block;
+    color: #9fa8b0;
+    font-weight: bold;
+    text-shadow: 1px 1px #1f272b;
+    border: 1px solid #1c252b;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    background: #232B30;
+    background: -moz-linear-gradient(top, #3D4850 3%, #313d45 4%, #232B30 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(3%,#3D4850), color-stop(4%,#313d45), color-stop(100%,#232B30));
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3D4850', endColorstr='#232B30',GradientType=0 );
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    -moz-box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+}
+       input[type="button"]
+{
+           height: 30px;
+border-radius: 50px;
+background-color: gold;
+font-family: 微软雅黑;
+}
